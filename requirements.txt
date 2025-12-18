@@ -1,6 +1,5 @@
 streamlit
-spacy
-sentence-transformers
+spacy==3.7.2
 scikit-learn
 pandas
 numpy
